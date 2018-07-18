@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: dune-first
+Version: 1.0
+Maintainer: nageswararao.160324@gmail.co,
+#depending on
+Depends: dune-common dune-geometry dune-grid dune-istl dune-localfunctions dune-typetree dune-functions dune-pdelab
